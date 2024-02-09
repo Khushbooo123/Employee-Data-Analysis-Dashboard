@@ -16,3 +16,4 @@ Utilize Microsoft Power BI for dynamic and interactive data visualization.
 Incorporate Microsoft Excel for data processing and pre-analysis.
 Provide decision-makers with valuable insights into employee performance and satisfaction.
 Enhance organizational effectiveness through informed decision-making based on data-driven metrics.
+![Employee Data Analysis](https://github.com/Khushbooo123/Employee-Data-Analysis-Dashboard/assets/52238176/997a8515-9623-4f97-973a-02541ea022fb)
