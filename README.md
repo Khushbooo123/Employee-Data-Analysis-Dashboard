@@ -9,6 +9,7 @@ The Employee Data Analysis Dashboard is a project undertaken by Psyliq to provid
 Tools Used:
 
 Microsoft Power BI
+
 Microsoft Excel
 
 Goals:
