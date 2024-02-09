@@ -1,6 +1,4 @@
-See it in action, download it:
-https://github.com/Khushbooo123/Employee-Data-Analysis-Dashboard/assets/52238176/ff2ca44f-6afc-4fc6-8504-8764197a5e43
-
+See it in action, download Mp4 File : Link is given above.
 Project Name: Employee Data Analysis Dashboard
 
 Project Description:
@@ -25,3 +23,5 @@ Provide decision-makers with valuable insights into employee performance and sat
 Enhance organizational effectiveness through informed decision-making based on data-driven metrics.
 
 ![Employee Data Analysis](https://github.com/Khushbooo123/Employee-Data-Analysis-Dashboard/assets/52238176/997a8515-9623-4f97-973a-02541ea022fb)
+[Employee Data Analysis Assessment.pptx](https://github.com/Khushbooo123/Employee-Data-Analysis-Dashboard/files/14222500/Employee.Data.Analysis.Assessment.pptx)
+
