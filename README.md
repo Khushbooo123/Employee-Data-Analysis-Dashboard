@@ -4,17 +4,17 @@ See it in action, download Mp4 File : Link is given above.
 
 Project Name: Employee Data Analysis Dashboard
 
-Project Description:
+# Project Description:
 
 The Employee Data Analysis Dashboard is a project undertaken by Psyliq to provide a comprehensive and visually intuitive representation of employee data. This dashboard is built using Microsoft Power BI and Microsoft Excel to analyze and present key metrics related to employee performance, satisfaction, and other relevant HR data. The goal is to empower decision-makers with actionable insights to enhance organizational effectiveness.
 
-Tools Used:
+# Tools Used:
 
 Microsoft Power BI
 
 Microsoft Excel
 
-Goals:
+# Goals:
 
 Develop a user-friendly dashboard for analyzing employee data.
 
